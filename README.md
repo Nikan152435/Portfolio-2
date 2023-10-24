@@ -19,13 +19,8 @@ I am Natalia Piasheva
 + Certificate [Basics Front-end](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/1certificate1%20%20Basis%20Frontend%20.pdf)
 + Сertificate [Basics JS](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/certificate%20Basis%20JS.pdf)
 + Сertificate [Browser JS](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/certificate%20in%20the%20browser.pdf)
- + Сertificate Advanced JS is in progress
-+ Сertificate Advanced JS, modern language capabilities is in progress
-+ Сertificate Advanced JS in the browser is in progress
-+ Certificate React, Library for Modern Front-End Development is in progress
   Job title
-At the moment I am studying at the Institute of Advanced Training "Netology" in Moscow, by profession a front-end developer. After graduating from university, I am looking for a job as a junior developer with internships and job familiarization, as I am a young aspiring programmer. No work experience.
-The date of receipt of the main diploma is approximately 2023, the date of graduation is approximately  2024.
+At the moment I am studying at the Institute of Advanced Training "Netology" in Moscow, by profession a front-end developer.
   Languages
 + Russian
 + English A2 languages learned independently, certification and courses required
