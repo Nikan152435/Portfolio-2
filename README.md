@@ -19,16 +19,15 @@ I am Natalia Piasheva And what I can
 + Сertificate [Basics JS](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/certificate%20Basis%20JS.pdf)
 + Сertificate [Browser JS](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/certificate%20in%20the%20browser.pdf)
   
-Job title: At the moment I am studying at the Institute of Advanced Training "Netology" in Moscow, by profession a front-end developer.
- 
-+Russian, Deutsch A2, Englisch A2 Selbstständig erlernte Sprachen, Zertifizierung und Kurse erforderlich
+ +Russian, Deutsch A2, Englisch A2 Selbstständig erlernte Sprachen, Zertifizierung und Kurse erforderlich
 + Сertificate [English for programmers](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/10%20certificate%20English%20for%20programmers.pdf)
  
-  Education: + Diplom [in Russian](https://github.com/Nikan152435/Portfolio/blob/main/Education/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%BD%D0%B0%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC1.png)
+  Education: 
+  + Diplom [in Russian](https://github.com/Nikan152435/Portfolio/blob/main/Education/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%BD%D0%B0%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC1.png)
   
-             + Diplom [auf Deutsch](https://github.com/Nikan152435/Portfolio/blob/main/Education/Diplom%20auf%20Deutsch1.pdf) 
+  + Diplom [auf Deutsch](https://github.com/Nikan152435/Portfolio/blob/main/Education/Diplom%20auf%20Deutsch1.pdf) 
  
   Сontacts
-nikan7602@gmail.com , https://github.com/Nikan152435/Portfolio
+mail: nikan7602@gmail.com , Github: https://github.com/Nikan152435/Portfolio
 
    
