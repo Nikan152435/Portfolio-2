@@ -8,6 +8,7 @@ I am Natalia Piasheva And what I can
  
 + Homework [the course Basics JS ](https://github.com/Nikan152435/bjs-2-homeworks)
 + Homework [the course Browser JS ](https://github.com/Nikan152435/bhj-homeworks)  
++ Homework [the course Advanced JS, modern language  Features ](https://github.com/Nikan152435/ajs-homeworks)
 
 + Сertificate [QA manual testing of web applications](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/3certificate%20QA%20(1).pdf)
 + Certificate [Responsives and mobiles Layout](https://github.com/Nikan152435/Portfolio/blob/main/Certificates/certificate%20Responsives%20und%20mobiles%20Layout.pdf)
@@ -22,7 +23,6 @@ I am Natalia Piasheva And what I can
  
   Education: 
   + Diplom [in Russian](https://github.com/Nikan152435/Portfolio/blob/main/Education/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20%D0%BD%D0%B0%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC1.png)
-  
   + Diplom [auf Deutsch](https://github.com/Nikan152435/Portfolio/blob/main/Education/Diplom%20auf%20Deutsch1.pdf) 
  
   Сontacts
